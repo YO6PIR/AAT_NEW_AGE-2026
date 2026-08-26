@@ -1,3 +1,5 @@
+
+<img width="3263" height="1544" alt="blur1" src="https://github.com/user-attachments/assets/1f68689e-5ce8-4343-b7e7-488118524791" />
 # AAT New Age — Automatic Antenna Tuner
 
 **AAT New Age** is a modernized automatic antenna tuner firmware for a compact HF matching unit built around an **ATmega328 (non‑P)**, an **HD44780-compatible 16×2 LCD**, relay-switched L/C networks, and an RF directional coupler.
