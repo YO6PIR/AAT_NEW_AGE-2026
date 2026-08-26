@@ -687,4 +687,4 @@ Always validate the tuner first on a suitable **50 Ω dummy load** before using 
 
 Modernization, firmware development and hardware validation performed as an amateur-radio project.
 
-**YO6PIR**
+**YO6PIR & Codex**
